@@ -19,7 +19,7 @@ label {
 
 input[type="number"],
 select {
- background-color: rgb(165, 179, 192);
+ background-color: aliceblue;
  padding: 8px;
  border: 1px;
  border: solid #ccc;
