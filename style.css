@@ -1,7 +1,7 @@
 css body {
   text-align: center;
  border: 5px solid rgb(16, 15, 15);
- background-color: yellow;
+ background-color: aliceblue;
  display: flex;
  flex-direction: column;
  align-items: center;
@@ -19,7 +19,7 @@ label {
 
 input[type="number"],
 select {
- background-color: aliceblue;
+ background-color: yellow;
  padding: 8px;
  border: 1px;
  border: solid #ccc;
